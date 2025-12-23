@@ -1,0 +1,96 @@
+h2 {
+	font-family: ADLaM Display;
+	font-weight: bold;
+	font-style: Regular;
+	font-size: 20px;
+	line-height: 100%;
+	letter-spacing: 0%;
+	color: white;
+}
+h1 {
+	font-family: Poppins;
+	font-weight: 700;
+	font-style: Bold;
+	font-size: 42px;
+	line-height: 48px;
+	letter-spacing: 0%;
+	color: #ffffff;
+	margin-top: 0%;
+}
+
+p {
+	font-family: Poppins;
+	font-weight: 400;
+	font-style: Regular;
+	font-size: 16px;
+	line-height: 100%;
+	letter-spacing: 0%;
+	color: #ffffff;
+}
+img {
+	margin-top: 20px;
+	position: absolutes;
+}
+body {
+	position: absolute;
+}
+h3 {
+	color: #ffffff;
+	font-size: 10px;
+}
+h4 {
+	margin-left: 60px;
+	margin-top: 0px;
+	font-family: Poppins;
+	font-weight: 1000;
+	font-style: bold;
+	font-size: 13px;
+	line-height: 100%;
+	letter-spacing: 0%;
+}
+h5 {
+	font-family: Poppins;
+	font-weight: 400;
+	font-style: Regular;
+	font-size: 16px;
+	line-height: 100%;
+	letter-spacing: 0%;
+}
+h6 {
+	font-family: Poppins;
+	font-weight: 400;
+	font-style: Bold;
+	font-size: 14px;
+	line-height: 100%;
+	letter-spacing: 0%;
+}
+h7 {
+	font-family: Poppins;
+	font-weight: 800;
+	font-style: Bold;
+	font-size: 26px;
+	line-height: 100%;
+	letter-spacing: 0%;
+}
+h8 {
+	font-family: Poppins;
+	font-weight: bold;
+	line-height: 100%;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+h9 {
+	font-family: Poppins;
+	font-weight: bold;
+	line-height: 100%;
+	text-align: center;
+	color: white;
+	font-size: 10px;
+}
+h12 {
+	font-weight: bold;
+}
+h13 {
+	font-size: 12px;
+}

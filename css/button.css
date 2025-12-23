@@ -1,0 +1,50 @@
+button {
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+button:focus {
+	outline: none;
+}
+button:active .box1 {
+	transform: scale(0.98);
+}
+button:active .box1 h3 {
+	transform: scale(0.98);
+}
+button:active h2 {
+	transform: scale(0.7);
+}
+
+button:active .box4 {
+	transform: scale(0.98);
+}
+button:active .box4 h3 {
+	transform: scale(0.98);
+}
+button:active h3 {
+	transform: scale(0.7);
+}
+s button:active .box5 {
+	transform: scale(0.98);
+}
+button:active .box5 h5 {
+	transform: scale(0.98);
+}
+button:active h5 {
+	transform: scale(0.7);
+}
+
+button:active .box2 {
+	transform: scale(0.98);
+}
+button:active .box4 h5 {
+	transform: scale(0.98);
+}
+
+button:active .box10 {
+	transform: scale(0.98);
+}
+button:active .box10 h10 {
+	transform: scale(0.98);
+}
